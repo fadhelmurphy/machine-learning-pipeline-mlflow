@@ -18,7 +18,7 @@ first thing, you have to clone this project by this command below.
 
 ### VSCODE
 
-if you're using vscode editor you can this project folder or you can open this project by command below.
+if you're using vscode editor you can this project folder or you can open this project by the command below.
 ```
 code machine-learning-pipeline-mlflow
 ```
